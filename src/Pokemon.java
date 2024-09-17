@@ -18,7 +18,7 @@ public class Pokemon {
         this.nome = nome;
         this.sexo = sexo;
         this.altura = altura;
-        Peso = peso;
+        this.Peso = peso;
         this.numeroDex = numeroDex;
         this.tipo1 = tipo1;
         this.tipo2 = tipo2;

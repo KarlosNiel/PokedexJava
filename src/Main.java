@@ -19,12 +19,10 @@ public class Main {
             switch (scanner.nextLine().toUpperCase()) {
                 case "NATIONALDEX":
                     System.out.println("NationalDex: ");
-                    gen1.pokemonsNaLista();
                     gen1.mostrarPokemons();
                     break;
                 case "GEN1":
                     System.out.println("Pokedex da 1° geração: ");
-                    gen1.pokemonsNaLista();
                     gen1.mostrarPokemons();
                     break;
                 case "BUSCAR":
